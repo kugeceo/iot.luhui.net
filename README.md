@@ -1,7 +1,13 @@
 # report-designer
 🚀 element as image ,text etc. visiual editor.
 > 本项目提供可视化设计所需要的基础功能，比如标尺、拖动、旋转、多选、复制、粘贴、组合、无限嵌套等。在此基础之上，设计器中面板、元素则由插件化的形式提供，比如需要表格、图片则只添加这2个元素插件即可，开发人员也可以很方便的定制自己的插件
+Deploy status badge
+This image automatically updates to reflect the current state of your latest production deploy. To create a status badge for a deployed branch, add the ?branch= query parameter to the badge URL. You can use the markdown snippet below to add it to your project README.
 
+Deploy status badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fa741c84-91c1-45ea-bae1-bfd696132943/deploy-status)](https://app.netlify.com/sites/iots/deploys)
+
+Learn more about status badges in the docs
 #### 声明
 专有软件及代码，禁止对该仓库代码进行反编译、分发等行为，否则将承担相应的法律后果。
 
