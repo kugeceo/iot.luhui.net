@@ -7,6 +7,12 @@ This image automatically updates to reflect the current state of your latest pro
 Deploy status badge
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fa741c84-91c1-45ea-bae1-bfd696132943/deploy-status)](https://app.netlify.com/sites/iots/deploys)
 
+http://iot.guanfu.org/
+
+http://iotss.netlify.app
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f8034bf-df3a-413e-b008-2e741decdd0a/deploy-status)](https://app.netlify.com/sites/iotss/deploys)
+
 Learn more about status badges in the docs
 #### 声明
 专有软件及代码，禁止对该仓库代码进行反编译、分发等行为，否则将承担相应的法律后果。
